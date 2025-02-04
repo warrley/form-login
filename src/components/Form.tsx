@@ -21,7 +21,7 @@ export const Form = () => {
                 </div>
                 <div className="flex flex-col">
                     <p>E-mail</p>
-                    <input className="rounded-md px-4 h-10" className="rounded-md px-4 h-10" type="text" placeholder="example@gmail.com"/>
+                    <input className="rounded-md px-4 h-10"  type="text" placeholder="example@gmail.com"/>
                 </div>
                 <div className="flex flex-col">
                     <p>Password</p>
